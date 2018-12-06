@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Read [Leer el archivo demo] (demo.ipynb)
+Read [Leer el archivo demo](demo.ipynb)
 
 Libro en [nbviewer]()
 
